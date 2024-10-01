@@ -1,0 +1,8 @@
+Create environment
+    conda create -p muk python==3.12.4 -y
+Activate the environment
+    conda activate muk/
+Install the requirements 
+    pip install -r requirements.txt
+    pip install ipykernal
+
